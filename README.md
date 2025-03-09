@@ -3,7 +3,7 @@
 Setup
 
 ```bash
-git clone https://github.com/eembc/coremark.git
+git clone https://github.com/raspberrypi/pico-sdk.git
 git clone https://github.com/owhinata/pico-coremark.git
 ```
 
